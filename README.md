@@ -2,3 +2,4 @@
 Repo made for exercise.
 conflict  
 Hello, again!
+new conflict (gitbash)
